@@ -3,7 +3,7 @@
 ### My Contacts
 - tel.: +380951907034
 - e-mail: makc.baykov@gmail.com
-- 
+
 ### About me
 Hey !
 I can't say that I love programming ... But I am firmly convinced that the main and correct vocation of humanity is creation.
