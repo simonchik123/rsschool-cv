@@ -31,7 +31,7 @@ body {
     margin-top: 50px;
 }
 
-.header {
+header {
     margin-bottom: 30px;
     display: flex;
     justify-content: space-between;
@@ -45,7 +45,7 @@ body {
 
 }
 
-.fullname {
+h1 {
     font-size: 40px;
     text-transform: uppercase;
     margin-bottom: 5px;
@@ -76,7 +76,7 @@ body {
     margin: 0px 10px;
 }
 
-.main {
+main {
     line-height: 20px;
 }
 
@@ -88,7 +88,7 @@ body {
     margin-bottom: 0px;
 }
 
-.sect_title {
+h3 {
     letter-spacing: 2px;
     color: #54AFE4;
     font-weight: bold;
